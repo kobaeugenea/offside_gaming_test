@@ -8,7 +8,7 @@ Use ```mvn compile``` command in project folder
 ## Run project
 Use ```mvn spring-boot:run``` command in project folder
 ## Configurable properties
-```api.history.maxPageSize``` - max size of page when obtain measurements history
+```api.history.maxPageSize``` - max size of page when obtain measurements history  
 ```api.history.defaultPageSize``` - default page size that application return if not specified another
 ## API doc
 See http://localhost:8080/api-docs/
